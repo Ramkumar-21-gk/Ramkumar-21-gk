@@ -237,6 +237,20 @@ Strengthening problem-solving skills through structured DSA practice — Data St
 
 <br>
 
+## ◈ LEETCODE
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ram_prajapati/">
+  <img src="https://leetcard.jacoblin.cool/ram_prajapati?theme=dark&font=baloo&ext=heatmap" width="70%" />
+</a>
+
+</div>
+
+> **48+ problems solved** across Easy, Medium, and Hard — continuously improving problem-solving skills.
+
+<br>
+
 ## ⌁ GITHUB STATS
 
 <div align="center">
