@@ -241,12 +241,6 @@ Strengthening problem-solving skills through structured DSA practice — Data St
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramkumar-21-gk&show_icons=true&theme=dark&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramkumar-21-gk&layout=compact&theme=dark&hide_border=true" width="40%" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramkumar-21-gk&theme=dark&hide_border=true" width="60%" />
 
 </div>
